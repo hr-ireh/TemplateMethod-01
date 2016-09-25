@@ -1,6 +1,6 @@
 package ir.hri.bl;
 
-public abstract class Beverages {
+public abstract class CaffeineBeverage {
     public void prepareRecipe() {
         boilWater();
         brew();

@@ -1,6 +1,6 @@
 package ir.hri.bl;
 
-public class Coffee extends Beverages {
+public class Coffee extends CaffeineBeverage {
     @Override
     public void brew() {
         System.out.println("ریختن پودر قهوه به داخل آب جوشانده شده");
